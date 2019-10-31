@@ -1,7 +1,9 @@
 <h2>The most cost-effective Socket:</h2>
-<a href="https://szdoit.aliexpress.com/store/group/Smart-Socket/1912455_516356582.html?spm=2114.12010612.0.0.37cd645dmMqNH0" target="_blank">https://szdoit.aliexpress.com/store/group/Smart-Socket/1912455_516356582.html?spm=2114.12010612.0.0.37cd645dmMqNH0</a><br>
-<a href="https://www.amazon.com/gp/product/B07WSYQ38T" target="_blank">https://www.amazon.com/gp/product/B07WSYQ38T</a>
-
+<div><b>aliexpress:</b><a href="https://szdoit.aliexpress.com/store/group/Smart-Socket/1912455_516356582.html?spm=2114.12010612.0.0.37cd645dmMqNH0" target="_blank">https://szdoit.aliexpress.com/store/group/Smart-Socket/1912455_516356582.html?spm=2114.12010612.0.0.37cd645dmMqNH0</a></div>
+<div>
+<b>amazon:</b><a href="https://www.amazon.com/gp/product/B07WSYQ38T" target="_blank">https://www.amazon.com/gp/product/B07WSYQ38T</a>
+<p>Smart Plug, DoHome Wifi Outlet Works With Alexa,Google Assistant&Apple HomeKit (No Apple MFi),Timer, No Hub Required, FCC,CP65,Only Support 2.4GHz WiFi Network,15A Smart Socket (2 Pack)</p>
+</div>
 <h2>The most cost-effective  LED Strip:</h2>
 <a href="https://szdoit.aliexpress.com/store/group/Smart-LED-Strip/1912455_516375770.html?spm=2114.12010612.0.0.37cd645dmMqNH0" target="_blank">https://szdoit.aliexpress.com/store/group/Smart-LED-Strip/1912455_516375770.html?spm=2114.12010612.0.0.37cd645dmMqNH0</a>
 
