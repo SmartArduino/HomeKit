@@ -1,10 +1,10 @@
 <h2>The most cost-effective Socket:</h2>
 <div><b>aliexpress：</b><a href="https://szdoit.aliexpress.com/store/group/Smart-Socket/1912455_516356582.html?spm=2114.12010612.0.0.37cd645dmMqNH0" target="_blank">https://szdoit.aliexpress.com/store/group/Smart-Socket/1912455_516356582.html?spm=2114.12010612.0.0.37cd645dmMqNH0</a>
- <p><img src="https://raw.githubusercontent.com/SmartArduino/HomeKit/master/img/Socket.jpg" /><p/>
+ <p><img src="https://raw.githubusercontent.com/SmartArduino/HomeKit/master/img/Socket.jpg" /></p>
 </div>
 <div>
 <b>amazon：</b><a href="https://www.amazon.com/gp/product/B07WSYQ38T" target="_blank">https://www.amazon.com/gp/product/B07WSYQ38T</a>
- <p><img src="https://raw.githubusercontent.com/SmartArduino/HomeKit/master/img/516p%2Bc5xotL._SL1000_.jpg" /><p/>
+ <p><img src="https://raw.githubusercontent.com/SmartArduino/HomeKit/master/img/516p%2Bc5xotL._SL1000_.jpg" /></p>
 <p>Smart Plug, DoHome Wifi Outlet Works With Alexa,Google Assistant&Apple HomeKit (No Apple MFi),Timer, No Hub Required, FCC,CP65,Only Support 2.4GHz WiFi Network,15A Smart Socket (2 Pack)</p>
 </div>
 <h2>The most cost-effective  LED Strip:</h2>
